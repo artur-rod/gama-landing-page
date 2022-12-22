@@ -1,1 +1,2 @@
-Hiring Coders Project - Creating a Landing Page with form to submit on LocalStorage
+## Hiring Coders Project - Creating a Landing Page
+### Access: <a href="https://minimalstore.netlify.app">Minimal Store<a>
